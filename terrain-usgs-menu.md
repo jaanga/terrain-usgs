@@ -18,7 +18,7 @@ R1 of the 1 second data viewer. Start here!
 
 An early coding effort with bizarre effects. Retained just for the fun of it.
 
-[USGS Viewer 3D Map Toy]( ../terrain-usgs-viewers/hgt-zip-usgs-viewer-3d-hello-world/hgt-zip-usgs-viewer-3d-hello-world-r1.html )
+[USGS Viewer 3D Hello World]( ../terrain-usgs-viewers/hgt-zip-usgs-viewer-3d-hello-world/hgt-zip-usgs-viewer-3d-hello-world-r1.html )
 
 For testing...
 
